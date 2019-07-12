@@ -3,6 +3,7 @@
 Vehicle counting in a conjusted traffic road where background subtraction gives lower performance.
 
 ![SCREENSHOT](https://github.com/bamwani/vehicle-counting-using-python-yolo/blob/master/Screenshot.png)
+ps: The car with-1.5Km/h is actually going in reverse :D
 
 This project use YOLOv3 for Vehicle detection and SORT(Simple Online and Realtime Tracker) for vehicle tracking
 
